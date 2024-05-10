@@ -32,7 +32,7 @@ To approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai netwo
 npx hardhat run scripts/batchTransfer.js --network goerli
 ```
 ## Author
-This project is authored by Kislay Kaushal.
+This project is authored by Utkarsh Anand
 
 ## License
 This project is licensed under the MIT License. Feel free to make a copy of the project and use it for your own purposes.
